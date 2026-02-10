@@ -95,21 +95,6 @@ Full Stack Developer with a passion for building scalable, modern web applicatio
 
 ---
 
-## 🏆 Highlights
-
-- ✅ Full Stack Development (Frontend & Backend)
-- ✅ Modern TypeScript/React Architecture
-- ✅ Python Microservices & Data Processing
-- ✅ PHP Backend Solutions
-- ✅ Responsive Web Design
-- ✅ RESTful API Design & Implementation
-- ✅ Database Design & Optimization
-- ✅ Docker & Containerization
-- ✅ Git Workflow & Version Control
-- ✅ Agile Development Methodologies
-
----
-
 ## 🤝 Partners & Collaborators
 
 <div align="center">
